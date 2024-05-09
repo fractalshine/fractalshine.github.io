@@ -18,4 +18,10 @@
 - 4: Получаем от бота конфиг в виде ссылки (ссылка автоматически копируется при нажатии) ![Step4](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/dd135615-ccb5-449c-b47f-7721aa7d87f3)
 - 5: Качаем последнюю версию клиента [NekoRay](https://github.com/Matsuridayo/nekoray/releases) для Windows
 - 6: Открываем скачанный архив и видим там одну папку. ![Step7](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/d0a6e9be-a2b0-47bb-86c6-ba2f60922e5e)
-- Эту папку распаковываем в любое удобное место 
+- 7: Эту папку распаковываем в любое удобное место и открываем.
+- 8: В папкке нам нужен nekoray.exe, находим и запускаем его. ![Step8](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/3cde49da-c3dd-4cf6-bf58-77b1e7eeb69b)
+- 9: При первом запуске попросит выбрать ядро, выбираем Xray ![Step9](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/52b68d73-7547-49a9-bb8a-bed658510341)
+- 10: Заходим в меню "Программа" и добавляем из буфера обмена профиль, скопированный из бота ![Step10](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/7bb5608c-479c-455f-b1d0-9b9fb487850c)
+- 11: Видим что профиль добавлен, жмём по нему правой кнопкой мыши и запускаем ![Step11](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/6124db0f-d16c-4aa3-a6b4-a880987096f3)
+- 12: Когда профиль запущен, у нас есть два варианта его использования: запустить режим системного прокси, тогда все соединения будут идти через VPN ![Step12 1](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/65b73a5e-485d-4fac-b856-b349a360ebc3)
+- 13: Либо настраиваем в нужном нам приложении соединение через Socks прокси, по умолчанию 127.0.0.1:2080 ![Step12 2](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/719ce3fd-ee83-43fe-95b5-483e3efbad16)
