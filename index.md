@@ -48,10 +48,12 @@
 
 ![Step4](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/dd135615-ccb5-449c-b47f-7721aa7d87f3)
 - 5: Качаем последнюю версию клиента [NekoRay](https://github.com/Matsuridayo/nekoray/releases) для Windows
+
 - 6: Открываем скачанный архив и видим там одну папку. 
 
 ![Step7](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/d0a6e9be-a2b0-47bb-86c6-ba2f60922e5e)
 - 7: Эту папку распаковываем в любое удобное место и открываем.
+
 - 8: В папкке нам нужен nekoray.exe, находим и запускаем его. 
 
 ![Step8](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/3cde49da-c3dd-4cf6-bf58-77b1e7eeb69b)
