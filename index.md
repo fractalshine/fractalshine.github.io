@@ -7,7 +7,7 @@
 
 [Mac OS X](#MacOSX)
 ## Android
-- 1: Качаем и устанавливаем клиент. ***Мы настоятельно рекомендуем использовать v2rayNG*** [Google Play](https://github.com/2dust/v2rayNG/releases) [GitHub](https://github.com/2dust/v2rayNG/releases)
+- 1: Качаем и устанавливаем клиент. ***Мы настоятельно рекомендуем использовать v2rayNG*** Можно скачать из [Google Play](https://github.com/2dust/v2rayNG/releases) или [GitHub](https://github.com/2dust/v2rayNG/releases)
 - 2: Запускаем бот кнопкой или командой /start
 
  ![Step1](https://github.com/fractalshine/MarzbanTelegramBot/assets/169190363/1e3519ce-1f00-4ef7-9dfa-289a96fccb61)
@@ -74,3 +74,19 @@
 ![Step12 2](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/719ce3fd-ee83-43fe-95b5-483e3efbad16)
 
 ## iOS
+
+- 1: Запускаем бот кнопкой или командой /start 
+
+- 2: Качаем и устанавливаем клиент. Можно использовать бесплатный (всех его базовых функций достаточно для работы впн) 
+[FoxRay](https://apps.apple.com/us/app/foxray/id6448898396) или платный 
+[Shadowrocket](https://github.com/2dust/v2rayNG/releases)
+
+- 3: Получаем от бота конфиг в виде ссылки (ссылка автоматически копируется при нажатии) 
+
+![Step4](https://github.com/fractalshine/fractalshine.github.io/assets/169190363/dd135615-ccb5-449c-b47f-7721aa7d87f3)
+
+- 4: Вставляем, кликая по указанной иконке.
+
+![step5](image)
+
+Гайд дополняется...
