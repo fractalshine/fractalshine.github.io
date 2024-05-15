@@ -93,7 +93,3 @@
 
 Гайд дополняется...
 
-<<<<<<< HEAD:index.md
-=======
-## Mac OS X {#MacOSX}
->>>>>>> 5f60423 (Moved to html):markdown_version.md
