@@ -87,6 +87,6 @@
 
 - 4: Вставляем, кликая по указанной иконке.
 
-![step5](image)
+![step5](https://github.com/fractalshine/fractalshine.github.io/assets/96349158/242546a9-213e-457b-9b4b-07fd3b169b4f)
 
 Гайд дополняется...
