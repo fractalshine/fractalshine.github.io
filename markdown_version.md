@@ -6,6 +6,8 @@
 [iOS](#iOS)
 
 [Mac OS X](#MacOSX)
+
+
 ## Android
 - 1: Качаем и устанавливаем клиент. ***Мы настоятельно рекомендуем использовать v2rayNG*** Можно скачать из [Google Play](https://github.com/2dust/v2rayNG/releases) или [GitHub](https://github.com/2dust/v2rayNG/releases)
 - 2: Запускаем бот кнопкой или командой /start
@@ -91,3 +93,7 @@
 
 Гайд дополняется...
 
+<<<<<<< HEAD:index.md
+=======
+## Mac OS X {#MacOSX}
+>>>>>>> 5f60423 (Moved to html):markdown_version.md
