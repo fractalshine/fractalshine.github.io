@@ -81,7 +81,7 @@
 
 - 2: Качаем и устанавливаем клиент. Можно использовать бесплатный (всех его базовых функций достаточно для работы впн) 
 [FoxRay](https://apps.apple.com/us/app/foxray/id6448898396) или платный 
-[Shadowrocket](https://github.com/2dust/v2rayNG/releases)
+[Shadowrocket](https://apps.apple.com/kg/app/shadowrocket/id932747118)
 
 - 3: Получаем от бота конфиг в виде ссылки (ссылка автоматически копируется при нажатии) 
 
