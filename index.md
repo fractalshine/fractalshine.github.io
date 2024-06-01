@@ -7,7 +7,7 @@
 
 [Mac OS X](#MacOSX)
 ## Android
-- 1: Качаем и устанавливаем клиент. ***Мы настоятельно рекомендуем использовать v2rayNG*** Можно скачать из [Google Play](https://github.com/2dust/v2rayNG/releases) или [GitHub](https://github.com/2dust/v2rayNG/releases)
+- 1: Качаем и устанавливаем клиент. ***Мы настоятельно рекомендуем использовать v2rayNG*** Можно скачать из [Google Play](https://play.google.com/store/apps/details?id=com.v2ray.ang) или [GitHub](https://github.com/2dust/v2rayNG/releases)
 - 2: Запускаем бот кнопкой или командой /start
 
  ![Step1](https://github.com/fractalshine/MarzbanTelegramBot/assets/169190363/1e3519ce-1f00-4ef7-9dfa-289a96fccb61)
